@@ -5,6 +5,12 @@ Esse é um dicionario em português do Brasil (pt-BR) para corretor ortográfico
 
 This is a Brazilian Portuguese (pt-BR) dictionary for the spell checker of JetBrains IntelliJ IDEA ([http://www.jetbrains.com/idea/](http://www.jetbrains.com/idea/ "JetBrains IntelliJ IDEA")).
 
+----------
+
+**Obs:** Os arquivos de dicionário deste projeto também são compatíveis com o corretor ortográfico do JetBrains PyCharm ([http://www.jetbrains.com/pycharm/](http://www.jetbrains.com/pycharm/ "JetBrains PyCharm")).
+
+Conforme foi observado e explicado pelo Evaldo Wolkers no seu blog: [https://evaldowolkers.wordpress.com/2017/12/08/configurando-dicionario-pt-br-para-corretor-ortografico-do-pycharm/](https://evaldowolkers.wordpress.com/2017/12/08/configurando-dicionario-pt-br-para-corretor-ortografico-do-pycharm/ "Configurando Dicionário PT-BR para Corretor Ortográfico do PyCharm")
+
 
 ## Instalação
 
